@@ -14,7 +14,7 @@ Verifying LF newlines:
 
 ``file test_files/latin1.txt`` should return something like:
 
-	test_files/utf-8.txt: ASCII text
+	test_files/latin1.txt: ASCII text
 
 ``file test_files/utf-8.txt`` should return something like:
 
